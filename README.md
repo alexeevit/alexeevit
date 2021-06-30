@@ -2,7 +2,7 @@
 
 My name is Slava, nice to meet you here.
 
-Here are little projects I work on:
+Here are projects I work on:
 
 - [Camo-rb](https://github.com/alexeevit/camo-rb) — an SSL/TLS image proxy that uses HMAC signed URLs
 - [ColorName](https://github.com/alexeevit/color_name) — a simple ruby gem that allows to get the name of a color given as a hex
